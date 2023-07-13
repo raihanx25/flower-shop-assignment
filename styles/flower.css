@@ -1,0 +1,185 @@
+/* common shared styles */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.font-color{
+    font-color: #272727;
+}
+
+.banner{
+    display: flex;
+    background-color: #E55473-40% ;
+      }
+.banner-content{
+     justify-content: space-between;
+    }
+.banner-greeting{
+    font-size: 65px;
+    width: 700px;
+    padding: 197px 97px 0px 240px;
+}
+.banner-description{
+    font-size: 18px;
+    font-weight: 800px;
+    padding: 0px 171px 32px 240px;
+}
+
+ .btn-primary{
+    background:#E55473;
+    padding: 20px 43px;
+    margin: 10px 671px 167px 240px;
+    font-size: 20px;
+    font-weight: 700 px;
+    display : inline-flex ; 
+    border-radius: 8px; 
+    text-align: center;
+}
+.banner-pic{
+    width: 635px;
+    height:800px;
+}
+.upper-middle{
+    /* display:flexbox; */
+
+}
+
+.feature{
+     /* justify-content: center; */
+     text-align: center;
+    }
+ .photo{
+    /* border-radius: 300px 300px 0px 0px; */
+    display:flex;
+    justify-content: space-between;
+    gap: 24px
+
+ }    
+.feature-title{
+    font-size: 40px;
+    font-weight: 800px;
+    margin: 178px 0px 10px 0px  ;
+     }
+.feature-description{
+    line-height: 30px;
+    /* padding: 24px 0px 12px 0px; */
+    margin: 10px 0px 24px 0px;
+}
+.photo-name{
+    display:flex;
+    justify-content: space-around;
+    text-decoration: underline;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    gap: 307px;
+}
+.mainpic-1{
+    border-radius: 300px 300px 0px 0px;
+    padding: 110px 78px 0px 78px;
+    background-color: rgba(167, 33, 98, 0.15);
+    /* align-items: center; */
+    /* text-align: center; */
+    /* justify-content: center; */
+}
+.mainpic-2{
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15) ;
+    padding: 117px 47px 51px 47px;
+}
+.mainpic-3{
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17,0.15);
+    padding: 67px 75px 0px 75px;
+}
+.middle{
+    background-color: rgba(39, 39, 39, 0.05);
+    /* gap: 24px ; */
+
+}
+ .icon{
+    display: flex;
+    justify-content: space-around;
+    /* gap:100px;  */
+    /* margin: 86px; */
+    padding-top: 86px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    /* gap:  */
+ }
+ .icon-1{
+
+ }
+
+ .icon-2{
+     padding-left: 178px;
+     padding-right: 120px ;
+     
+ }
+
+ .icon-3{
+       
+ }
+ .icon-name{
+      display: flex;
+      justify-content: space-around;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 35px;
+      /* column-gap: 100px; */ 
+      padding-bottom: 87px;
+ }
+
+ .icon-name-1{}
+
+ .icon-name-2{}
+
+ .icon-name-3{}
+  
+ .lower-middle{
+
+ }
+ 
+ .sales-banner{
+        display: flex;
+        justify-content:space-around;
+        background-color: rgba(229, 84, 115, 0.05);
+        /* gap : 166px; */
+  }
+   .greeting{
+    display: block;
+    padding: 230px 100px 182px 200px ; 
+   }
+  
+  .greeting-title{
+
+  }
+  .text-pink{
+       color: #E55473 ;
+  }
+ .greeting-description{
+    text-align: left;
+    /* justify-content: left; */
+
+ }
+ .btn-signup{
+      border-radius: 8px;
+      background : #E55473;
+      padding: 20px 20px 20px 20px;
+      font-size: 20px;
+      font-weight: 700;
+      display: inline-flex;
+      text-align: center;
+      
+    }
+
+ .signup-photo{
+    padding: 100px 0px 100px 0px;
+
+ }
+
+
